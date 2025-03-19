@@ -1,31 +1,3 @@
 # Let's Begin with something new
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Added a headder text into the file 
